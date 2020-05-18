@@ -1,0 +1,2 @@
+rootProject.name='cognitive-speaker-recognition'
+include ':app', ':lib'
